@@ -16,6 +16,7 @@
 		6AF935D22448EF6700BC2EA4 /* FoodPages_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF935D12448EF6700BC2EA4 /* FoodPages_Tests.swift */; };
 		6AF935DD2448EF6700BC2EA4 /* FoodPages_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF935DC2448EF6700BC2EA4 /* FoodPages_UITests.swift */; };
 		6AF935EB2449068400BC2EA4 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF935EA2449068400BC2EA4 /* RatingControl.swift */; };
+		6AF935ED244A299300BC2EA4 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AF935EC244A299300BC2EA4 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6AF935DC2448EF6700BC2EA4 /* FoodPages_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodPages_UITests.swift; sourceTree = "<group>"; };
 		6AF935DE2448EF6700BC2EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6AF935EA2449068400BC2EA4 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		6AF935EC244A299300BC2EA4 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				6AF935BA2448EF6400BC2EA4 /* AppDelegate.swift */,
 				6AF935BC2448EF6400BC2EA4 /* SceneDelegate.swift */,
 				6AF935BE2448EF6400BC2EA4 /* ViewController.swift */,
+				6AF935EC244A299300BC2EA4 /* Meal.swift */,
 				6AF935EA2449068400BC2EA4 /* RatingControl.swift */,
 				6AF935C02448EF6400BC2EA4 /* Main.storyboard */,
 				6AF935C32448EF6600BC2EA4 /* Assets.xcassets */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6AF935ED244A299300BC2EA4 /* Meal.swift in Sources */,
 				6AF935EB2449068400BC2EA4 /* RatingControl.swift in Sources */,
 				6AF935BF2448EF6400BC2EA4 /* ViewController.swift in Sources */,
 				6AF935BB2448EF6400BC2EA4 /* AppDelegate.swift in Sources */,
