@@ -1,11 +1,3 @@
-//
-//  MealTableViewController.swift
-//  FoodPages!
-//
-//  Created by Foster Taylor on 4/17/20.
-//  Copyright © 2020 Foster Taylor. All rights reserved.
-//
-
 import UIKit
 
 class MealTableViewController: UITableViewController {
