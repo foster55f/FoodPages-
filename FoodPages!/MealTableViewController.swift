@@ -53,6 +53,8 @@ class MealTableViewController: UITableViewController {
         cell.photoImageView.image = meal.photo
         cell.ratingControl.rating = meal.rating
 
+
+        return cell
     }
     
 
