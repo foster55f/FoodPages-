@@ -22,5 +22,5 @@ This project was a Swift APP that enables users to review meals!
 - Swift
 
 
-![2020-06-03 14 37 08](https://user-images.githubusercontent.com/50148342/83686628-c3200b00-a5a7-11ea-808b-1c3049ed6ee0.gif)
+![2020-06-03 14 41 59](https://user-images.githubusercontent.com/50148342/83687112-8d2f5680-a5a8-11ea-841d-65e648868959.gif)
 
